@@ -1,0 +1,14 @@
+{
+  "name": "sorted-array-question",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Blake Knight <oss.ideas@gmail.com> (https://blakek.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.9.0"
+  },
+  "scripts": {
+    "test": "ava"
+  }
+}
