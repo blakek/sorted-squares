@@ -1,0 +1,13 @@
+sorted-squares
+*.o
+*.ko
+*.obj
+*.elf
+*.dll
+*.so
+*.so.*
+*.dylib
+*.dSYM/
+*.su
+*.idb
+*.pdb
